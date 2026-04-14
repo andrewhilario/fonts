@@ -1,0 +1,9 @@
+{
+  "name": "fonts-cdn",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Self-hosted font CDN served via Cloudflare Pages",
+  "scripts": {
+    "build": "node build.js"
+  }
+}
